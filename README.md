@@ -13,3 +13,9 @@ git tag -m 'Add feature xx' heco/0.0.2
 ```
 git tag --list 'heco/*'
 ```
+
+## Show git logs of a sub project
+
+```
+git log -- heco
+```
